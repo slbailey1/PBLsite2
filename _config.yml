@@ -4,6 +4,5 @@ show_downloads: true
 github:
   zip_url: github.zip_url
   another_url: https://slbailey1.github.io/PBLsite/
-github:
   tar_url: github.tar_url
   another_url: https://slbailey1.github.io/PBLsite2/
