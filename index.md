@@ -1,10 +1,22 @@
-## This is the project title
+## Group Reflections
 
-Here is a brief description of the project. What we will do, what questions we will ask, etc etc. As of writing this I am not entirely sure what I am supposed to be answering because I am writing this without the handy little spreadsheet for all the questions. I cannot come up with any questions on my own, I am but a lowly script kiddie.
+If I recall correctly, this was a required page. I am having it in for now, if it needs to be changed I will change it.
 
-### Question
+### Person 1
 
-This is an answer. As I have said previously, I do not know what questions I need to be asking. This is simply filler text.
+Reflection text
+
+### Person 2
+
+Reflection text
+
+### Person 3
+
+Reflection text
+
+### Collective final thoughts
+
+Final thoughts go here.
 
 ## I need this for reference because I don't remember how to use markdown.
 ```markdown
