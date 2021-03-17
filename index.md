@@ -1,12 +1,15 @@
-### Person 1
+# External Links
+
+# Reflections
+
+### Maxwell
+Reflection text
+
+### Moawiye
 
 Reflection text
 
-### Person 2
-
-Reflection text
-
-### Person 3
+### Sam
 
 Reflection text
 
