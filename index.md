@@ -1,5 +1,7 @@
 # External Links
 
+this should have the video, slides, etc etc. I'm actually not too sure what else is supposed to be ""embedded"" here.
+
 # Reflections
 
 ### Maxwell
