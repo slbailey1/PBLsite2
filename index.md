@@ -1,7 +1,7 @@
 # Reflections
 
 ### Maxwell
-Reflection text
+[Flipgrid Video Reflection](https://flipgrid.com/b1377caa)
 
 ### Moawiye
 
